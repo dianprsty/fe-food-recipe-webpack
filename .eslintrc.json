@@ -13,7 +13,7 @@
   "rules": {
     "prettier/prettier": "error",
     "no-unused-vars": "warn",
-    "no-console": "off",
+    "no-console": "warn",
     "no-plusplus": "off",
     "func-names": "off",
     "object-shorthand": "off",
