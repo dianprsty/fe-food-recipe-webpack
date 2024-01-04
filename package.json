@@ -2,6 +2,7 @@
   "name": "submission-frontend-menengah",
   "version": "1.0.0",
   "description": "Membuat Aplikasi Web dengan ES6, Custom Element, NPM, Module Bundler, dan AJAX",
+  "private": "true",
   "main": "index.js",
   "engines": {
     "node": ">=16.0.0"
